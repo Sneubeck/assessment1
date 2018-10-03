@@ -27,33 +27,33 @@ h1, h2, h3, h4, h5 {
     margin-top: 0px auto 0px auto;
 }
 
-.site-header {
+header {
     color: #ffffff !important;
     padding: 20px;
     background-color: #89bdd3;
 }
 
-.site-header h2 {
+header h2 {
     font-style: italic;
 }
 
-.main-nav {
+nav {
     background-color: #9ad3de;
     border-top: 1px solid #3a3a3a;
 }
 
-.main-nav a {
+nav a {
     font-weight: bold; 
     padding: 20px;
     text-decoration: none;
     display: inline-block;
 }
 
-.main-nave a:hover {
+nav a:hover {
     text-decoration: underline;
 }
 
-.article {
+article {
     float:left;
     padding: 20px;
     width: 60%;
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5 {
     width: 30%;
 }
 
-.sidebar-nav{
+sidebar {
     border: 1px solid #3a3a3a;
     padding: 10px;
     margin: 20px;
